@@ -1,6 +1,6 @@
 {
   "name": "factoryx-frontend-dev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A comprehensive ReactJS library equipped with a variety of hooks, stores, and utility functions tailored for e-commerce applications. Enhance your project's shopping cart, checkout, product management, and order processing functionalities with ease.",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
